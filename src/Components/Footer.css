@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    padding: 1vh;
+    color: black;
+    background-color: white;
+    font-size: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+.footer2-icons ul{
+    display: flex;
+    gap: 2vh;
+}
+.footer li{
+    font-size: 2vh;
+}
+#claim{
+    margin-left: 3vh;
+}

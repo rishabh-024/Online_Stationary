@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.product{
+    height: 60vh;
+    width: 30vh;
+}
+.frame{
+    height: 54vh;
+    width: 50vh;
+    border-width: 0.3vh;
+    border-color: rgb(200, 192, 192);
+    border-radius: 0.9rem;
+    padding: 2vh;
+}
+div p{
+    margin-top: 2vh;
+    margin-bottom: 0.5vh;
+}
+div button.Button2{
+    color: white;
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
